@@ -1,0 +1,1 @@
+var playlist = { 2Pac: 'Dear Mama' };
